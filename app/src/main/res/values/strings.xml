@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRcarApps</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="none_paired">none paired device</string>
+</resources>
